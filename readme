@@ -1,0 +1,19 @@
+bootra1n: Linux + checkra1n, on USB
+===================================
+Just enough Linux to boot checkra1n on any PC.
+
+You will need:
+- An USB flash drive (at least 512MB or larger)
+- 64-bit or 32-bit AMD or Intel PC
+
+You do not need to install additional software or an OS.
+
+### 1. Download bootra1n 0.10.2
+- [bootra1n LiveCD (64-bit - 421 MB)](https://github.com/foxlet/bootra1n/releases/download/0.10.2/bootra1n-x86_64-0.10.2-20200526.iso)
+- [bootra1n LiveCD (32-bit - 396 MB)](https://github.com/foxlet/bootra1n/releases/download/0.10.2/bootra1n-i686-0.10.2-20200526.iso)
+> 64-bit: 795e9e80c08bb801c812ab52b5494dec90620ce68f3f5169ad07aaed58176360   
+> 32-bit: 3047828469fe8167cd4d0a7fe034caa1ee585f9526599159d283bc49e807a2d8
+
+### 2. Write bootra1n to USB
+- Rufus https://rufus.ie/
+
